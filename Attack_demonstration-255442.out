@@ -1,0 +1,111 @@
+Using Stored number field... 
+The 1-th cyclotomic number field 
+defined by the irreducible polynomial: x - 1 of degree: 1
+NUMBER OF TESTS  : 100
+SUCCESS RATE     : 100 %
+AVERAGE WALL TIME: 0 ms
+AVERAGE CPU TIME : 143 ms
+======================================================
+
+
+Using Stored number field... 
+The 2-th cyclotomic number field 
+defined by the irreducible polynomial: x + 1 of degree: 1
+NUMBER OF TESTS  : 100
+SUCCESS RATE     : 100 %
+AVERAGE WALL TIME: 0 ms
+AVERAGE CPU TIME : 135 ms
+======================================================
+
+
+Using Stored number field... 
+The 4-th cyclotomic number field 
+defined by the irreducible polynomial: x^2 + 1 of degree: 2
+NUMBER OF TESTS  : 100
+SUCCESS RATE     : 100 %
+AVERAGE WALL TIME: 1 ms
+AVERAGE CPU TIME : 163 ms
+======================================================
+
+
+Using Stored number field... 
+The 8-th cyclotomic number field 
+defined by the irreducible polynomial: x^4 + 1 of degree: 4
+NUMBER OF TESTS  : 100
+SUCCESS RATE     : 100 %
+AVERAGE WALL TIME: 1 ms
+AVERAGE CPU TIME : 311 ms
+======================================================
+
+
+Using Stored number field... 
+The 16-th cyclotomic number field 
+defined by the irreducible polynomial: x^8 + 1 of degree: 8
+NUMBER OF TESTS  : 100
+SUCCESS RATE     : 100 %
+AVERAGE WALL TIME: 1 ms
+AVERAGE CPU TIME : 424 ms
+======================================================
+
+
+Using Stored number field... 
+The 32-th cyclotomic number field 
+defined by the irreducible polynomial: x^16 + 1 of degree: 16
+NUMBER OF TESTS  : 100
+SUCCESS RATE     : 100 %
+AVERAGE WALL TIME: 4 ms
+AVERAGE CPU TIME : 643 ms
+======================================================
+
+
+Using Stored number field... 
+The 64-th cyclotomic number field 
+defined by the irreducible polynomial: x^32 + 1 of degree: 32
+NUMBER OF TESTS  : 100
+SUCCESS RATE     : 100 %
+AVERAGE WALL TIME: 1 ms
+AVERAGE CPU TIME : 1,007 ms
+======================================================
+
+
+Using Stored number field... 
+The 128-th cyclotomic number field 
+defined by the irreducible polynomial: x^64 + 1 of degree: 64
+NUMBER OF TESTS  : 100
+SUCCESS RATE     : 100 %
+AVERAGE WALL TIME: 2 ms
+AVERAGE CPU TIME : 1,427 ms
+======================================================
+
+
+Using Stored number field... 
+The 256-th cyclotomic number field 
+defined by the irreducible polynomial: x^128 + 1 of degree: 128
+NUMBER OF TESTS  : 100
+SUCCESS RATE     : 100 %
+AVERAGE WALL TIME: 9 ms
+AVERAGE CPU TIME : 3,459 ms
+======================================================
+
+
+Using Stored number field... 
+The 512-th cyclotomic number field 
+defined by the irreducible polynomial: x^256 + 1 of degree: 256
+NUMBER OF TESTS  : 100
+SUCCESS RATE     : 100 %
+AVERAGE WALL TIME: 72 ms
+AVERAGE CPU TIME : 16,013 ms
+======================================================
+
+
+Using Stored number field... 
+The 1024-th cyclotomic number field 
+defined by the irreducible polynomial: x^512 + 1 of degree: 512
+NUMBER OF TESTS  : 100
+SUCCESS RATE     : 100 %
+AVERAGE WALL TIME: 1,819 ms
+AVERAGE CPU TIME : 2min, 36,591 ms
+======================================================
+
+
+DONE
